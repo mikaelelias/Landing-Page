@@ -96,7 +96,7 @@ div.bloco {
     display: flex;
     justify-content: center;
     overflow: hidden;
-    
+    margin: 121px;  
 }
 
 .slider {
@@ -105,7 +105,7 @@ div.bloco {
     align-items: center;
     width: 80vw;
     height: 25vh;    
-    margin-top: 100px;
+    margin-top: 120px;
     overflow: hidden; 
  }
 
@@ -131,7 +131,8 @@ div.bloco {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin-top: 15px;
+    margin-top: -126px;
+    margin-left: 34px;
  }
 
  .product_1 {
