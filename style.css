@@ -11,6 +11,12 @@ body {
     background-color: #ffffff;
 }
 
+.in {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
 header {
     display: flex;
     justify-content: space-around;
@@ -200,7 +206,6 @@ div.bloco {
     justify-content: center;
     align-items: center;
     margin-top: -25px;
-    color: #fa9938;
 }
   
 #timer {
