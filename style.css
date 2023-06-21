@@ -11,12 +11,6 @@ body {
     background-color: #ffffff;
 }
 
-.in {
-    width: 1000px;
-    margin: 0 auto;
-}
-
-
 header {
     display: flex;
     justify-content: space-around;
@@ -141,38 +135,6 @@ div.bloco {
     margin-top: -126px;
     margin-left: 34px;
  }
-
- .product_1 {
-    text-align: center;
-    width: 15em;
-    background-color:#fa9938;
-    border-radius: 10px;
-    margin-right: 20px;
-}
-
-.product_2 {
-    justify-content: center;
-    text-align: center;
-    width: 15em;
-    background-color:#fa9938;
-    border-radius: 10px;
-}
-
-.product_3 {
-    justify-content: center;
-    text-align: center;
-    width: 15em;
-    background-color:#fa9938;
-    border-radius: 10px;
-}
-
-.product_4 {
-    justify-content: center;
-    text-align: center;
-    width: 15em;
-    background-color:#fa9938;
-    border-radius: 10px;
-}
 
 .product_information p {
     font-family: "poppins", sans-serif;
