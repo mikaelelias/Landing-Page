@@ -83,22 +83,21 @@ header {
     transition: all 0.5;
 }
 
-div.bloco {
-    background: url(image/burg_body.jpg);
-    background-size: cover;
-    height: 111vh;
-    width: 100vw;
-    border: 1px solid black;
-    margin-top: auto; 
-}
-
 .bloco_slider {
-    flex-wrap: wrap;
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
     justify-content: center;
     width: auto;
     display: flex;
     margin: 121px;  
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    text-align: center;
+}
+
+.bloco_slider img {
+    width: 30rem;
+    box-sizing: border-box;
 }
 
 .caixa {
@@ -106,6 +105,11 @@ div.bloco {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.product{
+    margin-top: 1rem;
+    cursor: pointer;
 }
 
 #countdown {
