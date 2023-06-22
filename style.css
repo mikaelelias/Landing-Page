@@ -93,14 +93,19 @@ div.bloco {
 }
 
 .bloco_slider {
-    display: flex;
     flex-wrap: wrap;
-    flex: 1 0 25%;
+    flex-direction: column;
+    justify-content: center;
     width: auto;
     display: flex;
-    justify-content: center;
-    overflow: hidden;
     margin: 121px;  
+}
+
+.caixa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 #countdown {
