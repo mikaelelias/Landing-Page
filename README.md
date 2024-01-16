@@ -1,4 +1,4 @@
-The landing-page project was developed to apply my knowledge in html and css. In the html structure, the project begins with the header distributing the page navigation among the logo, menu, and search field, in this block I applied flexbox concepts.
+The insane-burguer project was developed to apply my knowledge in html and css. In the html structure, the project begins with the header distributing the page navigation among the logo, menu, and search field, in this block I applied flexbox concepts.
 
 In the next section, we have the brand presentation with an informative text and the use of a gif with the purpose of animating the project and making it more dynamic.
 
