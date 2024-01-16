@@ -11,12 +11,3 @@ The next section features a background image highlighting the center of the page
 Continuing with the development, I implemented a block of images using flexbox in the html structure for better positioning of the elements, following a pattern of alignment and highlighting the main elements.
 
 ![image](https://user-images.githubusercontent.com/129218135/230792502-ea2d54e4-59ba-4b23-924e-8eccb4f119f1.png)
-
-
-REFATORAÇÃO DO PROJETO
-
-AJUSTES DAS IMGENS DOS PRODUTOS USANDO GRID; ok
-AJUSTAR RESPONSIVO DE TODO O SITE;
-POSSIVEL ALTERAÇÃO NA PRIMEIRA SESSÃO; ok
-MELHORAR ALTERAÇÃO COM O JAVASCRIPT;
-CRIAR UM MODAL PARA CADA IMAGEM;
